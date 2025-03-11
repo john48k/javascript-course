@@ -1,0 +1,11 @@
+.click-btn {
+    background-color: #04AA6D;
+    transition: background-color 1s, transform 1s,color 1s;
+}
+
+.click-btn:hover {
+    background-color: #038757;
+    color: aliceblue;
+    cursor: pointer;
+    transform: scale(1.06);
+}

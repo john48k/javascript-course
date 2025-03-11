@@ -30,11 +30,14 @@ Throughout the course, you will work on several hands-on projects to apply what 
 7. **Rock Paper Scissors** ✊✋✌️: Implement the classic game of Rock Paper Scissors.
 8. **Weather App Project** ☁️: Create a weather application that fetches and displays weather data for a given location.
 
-<!-- ## How to Use 🛠️
+## How to Use 🛠️
 
 To get started, clone the repository and check out the different branches for each topic and project:
 
 ```sh
 git clone <repository-url>
-cd <repository-directory>
-git checkout <branch-name> -->
+
+cd <javascript-prac>
+```
+
+Then just open the folder you want to learn from and use live server to run it. The notes will be in the comments.
