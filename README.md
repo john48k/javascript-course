@@ -1,6 +1,6 @@
 # JavaScript Course 🚀
 
-Welcome to the JavaScript Course! This course is designed to teach you everything you need to know about JavaScript, from the basics to advanced concepts. You can explore different branches to learn from various topics and projects.
+Welcome to the JavaScript Course! This course is designed to teach you everything you need to know about JavaScript, from the basics to advanced concepts. You can explore different folders to learn from various topics and projects.
 
 ## Course Overview 📚
 
@@ -41,3 +41,5 @@ cd <javascript-prac>
 ```
 
 Then just open the folder you want to learn from and use live server to run it. The notes will be in the comments.
+
+![JavaScript GIF](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)
