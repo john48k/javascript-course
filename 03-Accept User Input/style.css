@@ -5,7 +5,7 @@
 
 .click-btn:hover {
     background-color: #038757;
-    color: aliceblue;
+    color: rgb(255, 255, 255);
     cursor: pointer;
     transform: scale(1.06);
 }
